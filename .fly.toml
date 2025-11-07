@@ -1,0 +1,5 @@
+app = "cube-fly-test"   # must match your app name on Fly.io
+primary_region = "sea"  # change to yyz, lax, etc. if closer
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
